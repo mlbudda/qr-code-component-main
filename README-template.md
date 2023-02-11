@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL here](https://mlbudda.github.io/qr-code-component-main/)
 - Live Site URL: [Live site URL here](https://mlbudda.github.io/qr-code-component-main/)
 
 ## My process
@@ -37,5 +37,4 @@ I recently found the Frontendmentor website and was eager to complete my first c
 
 ## Author
 
-- Website - [Add your name here](https://mlbudda.github.io/qr-code-component-main/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mlbudda)
